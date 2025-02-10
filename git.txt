@@ -1,0 +1,18 @@
+원격 - 내 컴퓨터
+로컬 - 깃환경
+init
+status
+log
+config (이메일, 유저명 등록, 1회만 하면 됨)
+add
+commit(-m)
+checkout
+config
+push(-u origin main) 
+ls(-a) : 폴더보기
+cd 폴더명: 지정 폴더로 이동
+fetch
+pull
+----------------
+git status
+git commit
